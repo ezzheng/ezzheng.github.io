@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! Currently under construction, check back later.
 
 <!--
 **ezzheng/ezzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
